@@ -1,0 +1,65 @@
+body{
+    padding-top: 40px;
+    background: black;
+    font-family:"Roboto"
+    
+}
+.post {
+   background-color: white;
+   width: 30%;
+   height: 520px;
+   margin: auto
+
+
+}.post-head{
+    padding-top: 10px;
+    font-size: small;
+    display: flex;
+}
+img{
+    padding-left: 0px;
+    width:100%;
+}
+
+
+.logo{
+
+    float: left;
+    padding-right: 10px;
+    padding-left: 5px;
+    font-size: 25px
+    
+}
+span.saved{
+    float: right;
+    font-size: 30px;
+    padding-right: 15px;
+}
+span.burger{
+    width: 10%;
+    float: right;
+    padding-bottom: 10px;
+    font-size:  25px;
+    padding-right: 3px;
+}
+span.heart{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+}
+span.comment{
+    padding-right: 10px;
+    font-size: 30px;
+}
+.pax{
+    width: 85%;
+}
+span.plane{
+    font-size: 30px;
+}
+.body-lower{
+    font-size: small;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
